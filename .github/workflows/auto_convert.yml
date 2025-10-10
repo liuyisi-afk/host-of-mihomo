@@ -1,4 +1,6 @@
 name: Auto Convert hosts to Mihomo
+permissions:
+  contents: write   # ✅ 必须添加这一行，否则默认只读
 
 on:
   schedule:
@@ -14,14 +16,38 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Convert hosts
+
+      - name: Create convert_hosts.py
+        run: |
+          cat > convert_hosts.py <<'EOF'
+          import requests, yaml
+          url = "https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all"
+          r = requests.get(url)
+          r.raise_for_status()
+          hosts_dict = {}
+          for line in r.text.splitlines():
+              line = line.strip()
+              if not line or line.startswith("#"):
+                  continue
+              parts = line.split()
+              ip = parts[0]
+              domains = parts[1:]
+              for d in domains:
+                  hosts_dict[d] = ip
+          yaml.safe_dump({"hosts": hosts_dict}, open("mihomo_hosts.yaml", "w", encoding="utf8"),
+                        sort_keys=False, allow_unicode=True)
+          print("✅ 已生成 mihomo_hosts.yaml")
+          EOF
+
+      - name: Install dependencies and run
         run: |
           pip install requests pyyaml
-          python convert_hosts.py  # 上面那段脚本
+          python convert_hosts.py
+
       - name: Commit and Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
           git add mihomo_hosts.yaml
           git commit -m "Auto update hosts for Mihomo" || echo "No changes"
           git push
