@@ -447,8 +447,6 @@ hosts:
   accountcenter.agency-partner-community.com: 94.140.14.33
   accounts-google.fr: 94.140.14.33
   accounts.doubleclick.net: 94.140.14.33
-  accounts.google.com.donniegossett.com: 94.140.14.33
-  accounts.google.com.nitrotek.com.au: 94.140.14.33
   accscdn.m.taobao.com: 94.140.14.33
   acd.op.hicloud.com: 94.140.14.33
   acd.op.hihonorcloud.com: 94.140.14.33
@@ -1399,7 +1397,6 @@ hosts:
   ad02.focalink.com: 94.140.14.33
   ad03.doubleadx.com: 94.140.14.33
   ad03.focalink.com: 94.140.14.33
-  ad0324.ch: 94.140.14.33
   ad04.focalink.com: 94.140.14.33
   ad05.focalink.com: 94.140.14.33
   ad06.focalink.com: 94.140.14.33
@@ -7591,6 +7588,7 @@ hosts:
   api.9bet.army: 94.140.14.33
   api.9bet.band: 94.140.14.33
   api.9bet.care: 94.140.14.33
+  api.9bet.diy: 94.140.14.33
   api.9bet.fund: 94.140.14.33
   api.9bet.green: 94.140.14.33
   api.9bet.mobi: 94.140.14.33
@@ -9334,7 +9332,6 @@ hosts:
   asp.adsame.com: 94.140.14.33
   aspect-upush.umeng.com: 94.140.14.33
   aspectsview.esplanadventure.com: 94.140.14.33
-  aspenridgeup.pro: 94.140.14.33
   asseevolaraai.pro: 94.140.14.33
   asset-download.wixstudio.com: 94.140.14.33
   asset.adserver.vrizead.com: 94.140.14.33
@@ -9712,6 +9709,7 @@ hosts:
   bbads.sv.publicus.com: 94.140.14.33
   bbads.sx.atl.publicus.com: 94.140.14.33
   bbc-reporting-api.app: 94.140.14.33
+  bbm-ad-stack-production.up.railway.app: 94.140.14.33
   bbvaglobalwealthadvisors.com: 94.140.14.33
   bc.ad.daum.net: 94.140.14.33
   bcbuistnolq.pro: 94.140.14.33
@@ -9843,14 +9841,9 @@ hosts:
   bidderads.com: 94.140.14.33
   bidfnt-asia.adsmoloco.com: 94.140.14.33
   bidstream.advertserve.com: 94.140.14.33
-  biedadsaodpl.shop: 94.140.14.33
   biedadsl-pl.shop: 94.140.14.33
   biedadsze-pl.shop: 94.140.14.33
-  biedadszf-pl.shop: 94.140.14.33
-  biedadszh-pl.shop: 94.140.14.33
-  biedadszi-pl.shop: 94.140.14.33
-  biedadszj-pl.shop: 94.140.14.33
-  biedadszl-pl.shop: 94.140.14.33
+  biemaoreddaco.pro: 94.140.14.33
   big-bang-ads.com: 94.140.14.33
   big-loads.com: 94.140.14.33
   bigads.guj.de: 94.140.14.33
@@ -10218,6 +10211,7 @@ hosts:
   brprt.stsdk.vivo.com.cn: 94.140.14.33
   bruccelhaag.pro: 94.140.14.33
   bruceleadx1.com: 94.140.14.33
+  bruifnadiepro.pro: 94.140.14.33
   bruisedblock.pro: 94.140.14.33
   brunstikkova.pro: 94.140.14.33
   brunteshaldova.pro: 94.140.14.33
@@ -10248,6 +10242,7 @@ hosts:
   btc-glamit-365.live: 94.140.14.33
   btc-protocol-z960.pro: 94.140.14.33
   btc-vindici11.pro: 94.140.14.33
+  btcadverant.com: 94.140.14.33
   btcadverant.digital: 94.140.14.33
   btcadverantv10.de: 94.140.14.33
   btcapnstad.pro: 94.140.14.33
@@ -10786,7 +10781,6 @@ hosts:
   chat.ero-advertising.com: 94.140.14.33
   chatbotsolutionsteammp.pro: 94.140.14.33
   chatt3spot.pro: 94.140.14.33
-  chaveltrugo.pro: 94.140.14.33
   chavez.serv5780315.pro: 94.140.14.33
   chavoads.com: 94.140.14.33
   cheat-hacks-free-download.com: 94.140.14.33
@@ -10824,6 +10818,7 @@ hosts:
   checkedtodaydx.pro: 94.140.14.33
   checker.cityads.com: 94.140.14.33
   checking.cloudflare-browser-check.top: 94.140.14.33
+  cheeryburn.pro: 94.140.14.33
   cheessee5hub.pro: 94.140.14.33
   chekmeseger-adspager.online: 94.140.14.33
   chelbravestund.pro: 94.140.14.33
@@ -11959,6 +11954,7 @@ hosts:
   dailyanswers.pro: 94.140.14.33
   dailyblueciu.pro: 94.140.14.33
   dailybreakingwire.pro: 94.140.14.33
+  dailybulletinra.pro: 94.140.14.33
   dailybuzzreportnow.pro: 94.140.14.33
   dailycentral.pro: 94.140.14.33
   dailyfindtv.pro: 94.140.14.33
@@ -12310,10 +12306,13 @@ hosts:
   delivery0625f.liv5781408.pro: 94.140.14.33
   delivery0626b.liv5781408.pro: 94.140.14.33
   delivery0627e.liv5781408.pro: 94.140.14.33
+  delivery0740w.hub463167.pro: 94.140.14.33
+  delivery0750v.hub463167.pro: 94.140.14.33
   delivery1065n.m93227143.pro: 94.140.14.33
   delivery1066n.m93227143.pro: 94.140.14.33
   delivery1067n.m93227143.pro: 94.140.14.33
   delivery1068n.m93227143.pro: 94.140.14.33
+  delivery3568s.urge463183.pro: 94.140.14.33
   dell.hb-api.omtrdc.net: 94.140.14.33
   della-rocca.hub5780137.pro: 94.140.14.33
   delog.nestads.com: 94.140.14.33
@@ -12487,7 +12486,6 @@ hosts:
   dm-target.fishersci.com: 94.140.14.33
   dm-target.thermofisher.com: 94.140.14.33
   dm-us-dr.net.mydays.de: 94.140.14.33
-  dm.17xuexiba.com: 94.140.14.33
   dm.21hubei.com: 94.140.14.33
   dm.51okc.com: 94.140.14.33
   dm.66qw.net: 94.140.14.33
@@ -12726,7 +12724,6 @@ hosts:
   download.televisionfanatic.com: 94.140.14.33
   download.tfyxzai.com: 94.140.14.33
   download.uc.cn: 94.140.14.33
-  download.vvtoken.top: 94.140.14.33
   download.wan.sohu.com: 94.140.14.33
   download.wearelistening.co.nz: 94.140.14.33
   download.weatherblink.com: 94.140.14.33
@@ -13131,7 +13128,6 @@ hosts:
   energetic-surgery.pro: 94.140.14.33
   energydesk.pro: 94.140.14.33
   energyhouseinfo.pro: 94.140.14.33
-  energyinfo.pro: 94.140.14.33
   energywisdomways.pro: 94.140.14.33
   engelbertstrausz.pro: 94.140.14.33
   engine.4chan-ads.org: 94.140.14.33
@@ -13889,6 +13885,7 @@ hosts:
   fnview.pro: 94.140.14.33
   fo-api.omnitagjs.com: 94.140.14.33
   foc-share.com: 94.140.14.33
+  focusednative.pro: 94.140.14.33
   focusedquit.pro: 94.140.14.33
   focusfintrion-pro.com: 94.140.14.33
   focusin.ads.targetnet.com: 94.140.14.33
@@ -14307,6 +14304,7 @@ hosts:
   globaladv.net: 94.140.14.33
   globalapi.ad.xiaomi.com: 94.140.14.33
   globalbitenews.pro: 94.140.14.33
+  globalbriefra.pro: 94.140.14.33
   globalcurrencyadvisory.com: 94.140.14.33
   globale-analytics-sdk.global-e.com: 94.140.14.33
   globalepr.pro: 94.140.14.33
@@ -14429,7 +14427,6 @@ hosts:
   google-analytics-cn.com: 94.140.14.33
   google-analytics.bi.owox.com: 94.140.14.33
   google-analytics.com: 94.140.14.33
-  google-app-zh.com: 94.140.14.33
   google-assistance.fr: 94.140.14.33
   google-auth-required.com: 94.140.14.33
   google-ch-chrome.com.cn: 94.140.14.33
@@ -14440,7 +14437,6 @@ hosts:
   google-liar.ru: 94.140.14.33
   google-mail.fr: 94.140.14.33
   google-meet.fr: 94.140.14.33
-  google-meet.top: 94.140.14.33
   google-pagerank.net: 94.140.14.33
   google-redirectes.fr: 94.140.14.33
   google-secure.fr: 94.140.14.33
@@ -14919,8 +14915,6 @@ hosts:
   hotapi-va.isnssdk.com: 94.140.14.33
   hotchat-im.iqiyi.com: 94.140.14.33
   hoteroi.pro: 94.140.14.33
-  hotmail-session-5vwfq9rf-ns1oada3v-----hzlj11wwvw.kharwadejewellers.com: 94.140.14.33
-  hotmail-session-rofq8w6e-wbbtjgmhe-----lgqad25m2l.kharwadejewellers.com: 94.140.14.33
   hotupdatety.pro: 94.140.14.33
   houseads-prod.elasticbeanstalk.com: 94.140.14.33
   houseads.ttpsdk.info: 94.140.14.33
@@ -16061,6 +16055,7 @@ hosts:
   lasisetasiny.pro: 94.140.14.33
   lasiso.pro: 94.140.14.33
   latam.adspecs.yahoo.com: 94.140.14.33
+  latestnewshub.pro: 94.140.14.33
   latestreportzoneiq.pro: 94.140.14.33
   latestupdates.pro: 94.140.14.33
   launch-analytics-plugin.launchpotato.com: 94.140.14.33
@@ -17241,7 +17236,6 @@ hosts:
   microsoft.team365.realtrade4.com: 94.140.14.33
   microsoft.vpn-update.org: 94.140.14.33
   microsoftadvertisingdevcenter.112.2o7.net: 94.140.14.33
-  microsoftsupport.pro: 94.140.14.33
   midrar-pro.com: 94.140.14.33
   mig.str.mdt.qq.com: 94.140.14.33
   milky-silver.pro: 94.140.14.33
@@ -17703,7 +17697,6 @@ hosts:
   netcoreax.pro: 94.140.14.33
   netflix-update.fr: 94.140.14.33
   netflowhubx.pro: 94.140.14.33
-  netflx-update.com: 94.140.14.33
   netguard.mobi: 94.140.14.33
   netherex-pro-system.com: 94.140.14.33
   netobjectpanel.pro: 94.140.14.33
@@ -18993,7 +18986,6 @@ hosts:
   pawotin.pro: 94.140.14.33
   pay-click.ru: 94.140.14.33
   paypal-banking.pro: 94.140.14.33
-  paypal-check.com: 94.140.14.33
   paypal-security-update.fr: 94.140.14.33
   paypalssl.doubleclick.net: 94.140.14.33
   payperclickadvertising.org.uk: 94.140.14.33
@@ -19054,6 +19046,7 @@ hosts:
   perf.gds.mmstat.com: 94.140.14.33
   perf.mmstat.com: 94.140.14.33
   perf.teads.tv.edgekey.net: 94.140.14.33
+  perfect-wear.pro: 94.140.14.33
   performancemarketinghubnf.pro: 94.140.14.33
   perija.pro: 94.140.14.33
   periodiceffort.pro: 94.140.14.33
@@ -19348,7 +19341,6 @@ hosts:
   policycenter-auth-check.vercel.app: 94.140.14.33
   polifa.pro: 94.140.14.33
   polimadv.com: 94.140.14.33
-  polinexis-pro.com: 94.140.14.33
   political-part.pro: 94.140.14.33
   polmeradia.pro: 94.140.14.33
   poln.advanced-blutickfanpages.sbs: 94.140.14.33
@@ -19868,6 +19860,7 @@ hosts:
   qc.smartadserver.com: 94.140.14.33
   qc.x8.mobi: 94.140.14.33
   qcypnklqhsdk.com: 94.140.14.33
+  qeadiuneraose.pro: 94.140.14.33
   qecuxe.pro: 94.140.14.33
   qegodu.pro: 94.140.14.33
   qekoro.pro: 94.140.14.33
@@ -19888,6 +19881,7 @@ hosts:
   qianlong.adsame.com: 94.140.14.33
   qicike.pro: 94.140.14.33
   qicufi.pro: 94.140.14.33
+  qielleunnadore.pro: 94.140.14.33
   qifosi.pro: 94.140.14.33
   qihoo.cn: 94.140.14.33
   qikdownloads.com: 94.140.14.33
@@ -19916,7 +19910,6 @@ hosts:
   quaintcounty.pro: 94.140.14.33
   qualified-beach.pro: 94.140.14.33
   qualifiedjunior.pro: 94.140.14.33
-  qualifiedrepair.pro: 94.140.14.33
   quality-traffic.com: 94.140.14.33
   quanjing.cnzz.com: 94.140.14.33
   quantavexiq.pro: 94.140.14.33
@@ -21361,6 +21354,7 @@ hosts:
   sevendreamhill.pro: 94.140.14.33
   severewall.pro: 94.140.14.33
   sexanyu.pro: 94.140.14.33
+  sextyron.pro: 94.140.14.33
   sezads.store: 94.140.14.33
   sf-ads.io: 94.140.14.33
   sf.adsfactor.net: 94.140.14.33
@@ -21571,6 +21565,7 @@ hosts:
   shipment2020a.m20156241.pro: 94.140.14.33
   shipment2021e.m20156241.pro: 94.140.14.33
   shipment2022r.m20156241.pro: 94.140.14.33
+  shipment6836g.m1386033.pro: 94.140.14.33
   shirmpy.adobe.fanatics.com: 94.140.14.33
   shisancore-pro.com: 94.140.14.33
   shisancore.pro: 94.140.14.33
@@ -21893,7 +21888,6 @@ hosts:
   socialproofstudioax.pro: 94.140.14.33
   socket.9bet.mobi: 94.140.14.33
   sodoetaorador.pro: 94.140.14.33
-  soft-update.dev: 94.140.14.33
   softbeing.pro: 94.140.14.33
   softonic-analytics.net: 94.140.14.33
   softonicads.com: 94.140.14.33
@@ -22037,6 +22031,7 @@ hosts:
   splash-blue.de: 94.140.14.33
   splash-screen.voodoo-ads.io: 94.140.14.33
   splash.appsgeyser.com: 94.140.14.33
+  splash.gobbledygook.uk: 94.140.14.33
   splashhy5pool.pro: 94.140.14.33
   splashimgretrybssdl.cloud.kugou.com: 94.140.14.33
   spodklatkischodowej.pro: 94.140.14.33
@@ -22440,7 +22435,6 @@ hosts:
   statstest.upti.pro: 94.140.14.33
   statsv2.propellerads.com: 94.140.14.33
   steadyflowless.pro: 94.140.14.33
-  steamcommunity.authentication-check.com: 94.140.14.33
   stedoquin.pro: 94.140.14.33
   steenbergen.web.ero-advertising.com: 94.140.14.33
   stenadewy.pro: 94.140.14.33
@@ -22573,7 +22567,14 @@ hosts:
   suivi5537r.serv4571563.pro: 94.140.14.33
   suivi5547o.serv4571563.pro: 94.140.14.33
   suivi5687s.serv4571563.pro: 94.140.14.33
+  suivre0301b.urge463183.pro: 94.140.14.33
+  suivre0303u.urge463183.pro: 94.140.14.33
+  suivre0303w.urge463183.pro: 94.140.14.33
+  suivre0304a.urge463183.pro: 94.140.14.33
   suivre5996t.m40721831.pro: 94.140.14.33
+  suivre6320f.hub463167.pro: 94.140.14.33
+  suivre6522m.hub463167.pro: 94.140.14.33
+  suivre6523y.hub463167.pro: 94.140.14.33
   suivre8633d.oblg463412.pro: 94.140.14.33
   suivre9933d.oblg463412.pro: 94.140.14.33
   suivre9953d.oblg463412.pro: 94.140.14.33
@@ -22929,6 +22930,7 @@ hosts:
   tauga.ope-143109.pro: 94.140.14.33
   tauportfolix.pro: 94.140.14.33
   taut-machine.pro: 94.140.14.33
+  taut-paper.pro: 94.140.14.33
   tavareslopes.adv.br: 94.140.14.33
   tavrenokis.pro: 94.140.14.33
   tavuzya.pro: 94.140.14.33
@@ -23987,7 +23989,6 @@ hosts:
   update-login.fr: 94.140.14.33
   update-macosx.com: 94.140.14.33
   update-myetherwallet.com: 94.140.14.33
-  update-netflix.com: 94.140.14.33
   update-netflix.fr: 94.140.14.33
   update-netflix.info: 94.140.14.33
   update-ntfl.fr: 94.140.14.33
@@ -25141,6 +25142,7 @@ hosts:
   world.ex-advantage.jp: 94.140.14.33
   world.popadscdn.net: 94.140.14.33
   worldbriefty.pro: 94.140.14.33
+  worlddailybrief.pro: 94.140.14.33
   worldfilmdownloads.com: 94.140.14.33
   worldlytea.pro: 94.140.14.33
   worldmediaiqora.pro: 94.140.14.33
@@ -25352,7 +25354,6 @@ hosts:
   www.ad8.api.ero-advertising.com: 94.140.14.33
   www.ad8.banners.ero-advertising.com: 94.140.14.33
   www.adadvisor.net: 94.140.14.33
-  www.adaptivepropertyservices.com: 94.140.14.33
   www.adclickservice.com: 94.140.14.33
   www.adf.ero-advertising.com: 94.140.14.33
   www.adfpaces.ero-advertising.com: 94.140.14.33
@@ -25450,7 +25451,6 @@ hosts:
   www.advertserve.com: 94.140.14.33
   www.advertyz.com: 94.140.14.33
   www.advexotrade.com: 94.140.14.33
-  www.advgbcrtb.site: 94.140.14.33
   www.adview.cn: 94.140.14.33
   www.advinestium.net: 94.140.14.33
   www.adw.ero-advertising.com: 94.140.14.33
@@ -25482,6 +25482,7 @@ hosts:
   www.api.axiatraders.com: 94.140.14.33
   www.api.taboola.com: 94.140.14.33
   www.api2-update-routing-mydpd.bergh.com: 94.140.14.33
+  www.arazadvisory.net: 94.140.14.33
   www.askwealthadvisers.com: 94.140.14.33
   www.assistenza-hype-partner.com: 94.140.14.33
   www.ata.ero-advertising.com: 94.140.14.33
@@ -25523,6 +25524,7 @@ hosts:
   www.bestphoneapps.mobi: 94.140.14.33
   www.bettertextads.com: 94.140.14.33
   www.bhraskilon.pro: 94.140.14.33
+  www.biemaoreddaco.pro: 94.140.14.33
   www.bigbangads.go2cloud.org: 94.140.14.33
   www.bingads.microsoft.com: 94.140.14.33
   www.bitcoin-ifex-360-ai.info: 94.140.14.33
@@ -25544,9 +25546,10 @@ hosts:
   www.brightstardv.pro: 94.140.14.33
   www.briokapitorio.pro: 94.140.14.33
   www.broadspring.com: 94.140.14.33
+  www.bruifnadiepro.pro: 94.140.14.33
   www.btc-adverant-ai.live: 94.140.14.33
   www.btc-adverant224-ai.live: 94.140.14.33
-  www.btcadverantv10.de: 94.140.14.33
+  www.btcadverant.com: 94.140.14.33
   www.btcnexivolt-760.pro: 94.140.14.33
   www.btctraderai.pro: 94.140.14.33
   www.btw.ero-advertising.com: 94.140.14.33
@@ -25614,9 +25617,9 @@ hosts:
   www.cysyjeo.pro: 94.140.14.33
   www.da-ads.com: 94.140.14.33
   www.daaa.ero-advertising.com: 94.140.14.33
-  www.dadscustody.com: 94.140.14.33
   www.daea.ero-advertising.com: 94.140.14.33
   www.daia.ero-advertising.com: 94.140.14.33
+  www.dailybulletinra.pro: 94.140.14.33
   www.dat2.ero-advertising.com: 94.140.14.33
   www.data-ero-advertising.com: 94.140.14.33
   www.data2.ero-advertising.com: 94.140.14.33
@@ -25643,7 +25646,6 @@ hosts:
   www.directnetadvertising.net: 94.140.14.33
   www.dns-loginssl.bausachverstaendiger-wiesbaden.de: 94.140.14.33
   www.dobreprogramy.pro: 94.140.14.33
-  www.dobruasemi.pro: 94.140.14.33
   www.dograenagal.pro: 94.140.14.33
   www.dolanadserver.com: 94.140.14.33
   www.doloza.pro: 94.140.14.33
@@ -25656,7 +25658,6 @@ hosts:
   www.down1oads.com: 94.140.14.33
   www.download-ifram-rona-7857543-g7lbr.bunny.run: 94.140.14.33
   www.download.inboxace.com: 94.140.14.33
-  www.download.majorspypro.rip: 94.140.14.33
   www.download.televisionfanatic.com: 94.140.14.33
   www.download.weatherblink.com: 94.140.14.33
   www.downloads-whatsapp.com: 94.140.14.33
@@ -25694,7 +25695,6 @@ hosts:
   www.etomgorpulik.pro: 94.140.14.33
   www.exactadvertising.com: 94.140.14.33
   www.exit-ad.de: 94.140.14.33
-  www.exovalttrade94trade.com: 94.140.14.33
   www.ext-345064.pro: 94.140.14.33
   www.ext-536805.pro: 94.140.14.33
   www.ext5710418.pro: 94.140.14.33
@@ -25755,6 +25755,7 @@ hosts:
   www.geoadserver.com: 94.140.14.33
   www.getmyads24.com: 94.140.14.33
   www.glassygrovefy.pro: 94.140.14.33
+  www.globalbriefra.pro: 94.140.14.33
   www.gmads.net: 94.140.14.33
   www.goads.pro: 94.140.14.33
   www.godsadvice.com: 94.140.14.33
@@ -25774,7 +25775,6 @@ hosts:
   www.gtrade1.com: 94.140.14.33
   www.gtrade1.net: 94.140.14.33
   www.gurzemqalin.pro: 94.140.14.33
-  www.gvsadvisory.com: 94.140.14.33
   www.happystonezk.pro: 94.140.14.33
   www.hata.ero-advertising.com: 94.140.14.33
   www.hawthornethreads.mom: 94.140.14.33
@@ -25859,11 +25859,11 @@ hosts:
   www.krynthelixombravane.pro: 94.140.14.33
   www.ksiazorc-alyron.pro: 94.140.14.33
   www.ladsblue.com: 94.140.14.33
-  www.ladspants.com: 94.140.14.33
   www.ladugyi.pro: 94.140.14.33
   www.lanzoud.com: 94.140.14.33
   www.lanzous.com: 94.140.14.33
   www.lanzouz.com: 94.140.14.33
+  www.latestnewshub.pro: 94.140.14.33
   www.layers.ero-advertising.com: 94.140.14.33
   www.lead-analytics-1000.com: 94.140.14.33
   www.leads.goldenshovel.com: 94.140.14.33
@@ -25876,8 +25876,6 @@ hosts:
   www.lidlsaleonlyadspl.shop: 94.140.14.33
   www.links-and-traffic.com: 94.140.14.33
   www.loadsabingo.com: 94.140.14.33
-  www.lobaveo.pro: 94.140.14.33
-  www.logiccormax100.pro: 94.140.14.33
   www.loimearadiku.pro: 94.140.14.33
   www.lorenterendor-click.pages.dev: 94.140.14.33
   www.lottery.ie: 94.140.14.33
@@ -25921,7 +25919,6 @@ hosts:
   www.mybb.ero-advertising.com: 94.140.14.33
   www.myhucadvantage.com: 94.140.14.33
   www.mylottoadserv.com: 94.140.14.33
-  www.mymavrex-trace.com: 94.140.14.33
   www.mywinadvantage.com: 94.140.14.33
   www.n149adserv.com: 94.140.14.33
   www.naiadsystems.com: 94.140.14.33
@@ -25997,7 +25994,6 @@ hosts:
   www.popads.ero-advertising.com: 94.140.14.33
   www.popads.net: 94.140.14.33
   www.popadvert.com: 94.140.14.33
-  www.popelkar.pro: 94.140.14.33
   www.postads24.com: 94.140.14.33
   www.postfix-dns.com: 94.140.14.33
   www.postnewsads.com: 94.140.14.33
@@ -26026,6 +26022,8 @@ hosts:
   www.purliquidheim.pro: 94.140.14.33
   www.purnoavexo.pro: 94.140.14.33
   www.qchannel01.cn: 94.140.14.33
+  www.qeadiuneraose.pro: 94.140.14.33
+  www.qielleunnadore.pro: 94.140.14.33
   www.qqads.com: 94.140.14.33
   www.quantixfinance.pro: 94.140.14.33
   www.quantum-flowbit.pro: 94.140.14.33
@@ -26082,10 +26080,10 @@ hosts:
   www.servedby-buysellads.com: 94.140.14.33
   www.seure-update.fartit.com: 94.140.14.33
   www.sexadvertentiesite.nl: 94.140.14.33
+  www.sextyron.pro: 94.140.14.33
   www.sexyads.net: 94.140.14.33
   www.sguinarheabu.pro: 94.140.14.33
   www.share-server.com: 94.140.14.33
-  www.shimeet.pro: 94.140.14.33
   www.silnyfundalis.pro: 94.140.14.33
   www.silverthorn.pro: 94.140.14.33
   www.sin.ero-advertising.com: 94.140.14.33
@@ -26151,7 +26149,6 @@ hosts:
   www.tex.ero-advertising.com: 94.140.14.33
   www.text-link-ads.com: 94.140.14.33
   www.textlinkads.com: 94.140.14.33
-  www.thezyberlichbeamai-update.com: 94.140.14.33
   www.threadsandtinker.com: 94.140.14.33
   www.thumb.ero-advertising.com: 94.140.14.33
   www.thumbads.ero-advertising.com: 94.140.14.33
@@ -26227,7 +26224,6 @@ hosts:
   www.wdata.ero-advertising.com: 94.140.14.33
   www.web.cellfun.mobi: 94.140.14.33
   www.wekstron-pro.com: 94.140.14.33
-  www.wemwmejsidosdkaod.site: 94.140.14.33
   www.wendravik.pro: 94.140.14.33
   www.westgrove-hqmsdke-mainfield.site: 94.140.14.33
   www.westreclameadvies.nl: 94.140.14.33
@@ -26240,6 +26236,7 @@ hosts:
   www.wks.ero-advertising.com: 94.140.14.33
   www.woldmonridge.pro: 94.140.14.33
   www.worexua.pro: 94.140.14.33
+  www.worlddailybrief.pro: 94.140.14.33
   www.wow.ero-advertising.com: 94.140.14.33
   www.wsw.ero-advertising.com: 94.140.14.33
   www.wta.ero-advertising.com: 94.140.14.33
